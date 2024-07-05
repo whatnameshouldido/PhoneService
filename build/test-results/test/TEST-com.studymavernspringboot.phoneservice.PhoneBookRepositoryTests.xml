@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.studymavernspringboot.phoneservice.PhoneBookRepositoryTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-06-27T01:51:34" hostname="3-6" time="0.088">
+  <properties/>
+  <testcase name="jsonRepositoryTest()" classname="com.studymavernspringboot.phoneservice.PhoneBookRepositoryTests" time="0.078"/>
+  <testcase name="textRepositoryTest()" classname="com.studymavernspringboot.phoneservice.PhoneBookRepositoryTests" time="0.009"/>
+  <system-out><![CDATA[java.lang.NumberFormatException: For input string: ""
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

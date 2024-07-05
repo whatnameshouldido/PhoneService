@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.studymavernspringboot.phoneservice.PhoneBookServiceTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-27T01:51:34" hostname="3-6" time="0.017">
+  <properties/>
+  <testcase name="phoneBookServiceImplTest()" classname="com.studymavernspringboot.phoneservice.PhoneBookServiceTests" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

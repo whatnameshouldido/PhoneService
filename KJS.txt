@@ -1,0 +1,6 @@
+1,나,Families,010-1515-1512,me@naver.com
+2,칭구,Friends,010-1234-5678,fr@naver.com
+3,엄마,Families,010-5678-9034,mom@naver.com
+4,교수님,Jobs,010-1919-1919,prof@gmail.com
+5,볼링장,Hobbies,02-113-4512,bowling@nate.com
+6,발신자 표시 제한,Jobs,010-6666-6666,X
